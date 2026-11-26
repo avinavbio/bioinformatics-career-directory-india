@@ -43,7 +43,15 @@ Major locations include Bengaluru, Hyderabad, Mumbai, Delhi NCR, Pune, Chennai, 
 
 ## 📥 Download the Directory
 
-**[Download the Bioinformatics Jobs in India PDF](bioinformatics_jobs_india_with_high_res_map.pdf)**
+### 📄 Complete PDF Directory
+
+[Download the Bioinformatics Jobs in India PDF](bioinformatics_jobs_india_with_high_res_map.pdf)
+
+### 🗺️ High-Resolution India Company Map
+
+[View or download the high-resolution PNG map](india_companies_city_map_4x.png)
+
+![India Bioinformatics Company Distribution Map](india_companies_city_map_4x.png)
 
 ## 👥 Who Can Benefit?
 
